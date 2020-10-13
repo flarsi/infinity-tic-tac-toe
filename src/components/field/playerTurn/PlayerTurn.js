@@ -6,7 +6,7 @@ export const PlayerTurn = () => {
 
     return(
         <div className="player-turn">
-                <h1>{field.data.turn && field.data.turn}</h1>
+                <h1>{field.data.turn && field.data.turn} turn</h1>
         </div>
     )
 }
