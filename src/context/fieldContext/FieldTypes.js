@@ -1,0 +1,5 @@
+export const SETRULES = "SETRULES"
+export const CANGETURN = "CANGETURN"
+export const SETCHAR = "SETCHAR"
+export const SETWINNER = "SETWINNER"
+export const NEWGAME = "NEWGAME"
